@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c76620f-409b-48d0-8814-139300ad8d40" name="Default" comment="basic user">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/controller/AdminEmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/controller/AdminEmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="TypeScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Movie</find>
+      <find>e</find>
+      <find>movie</find>
+      <find>clientSocket</find>
+      <find>clientInputStream</find>
+      <find>User</find>
+      <find>adminEmployee</find>
+      <find>user</find>
+      <find>addListenerAddB</find>
+      <find>listEmployee</find>
+      <find>delete</find>
+      <find>addButton</find>
+      <find>medicationView</find>
+      <find>Show</find>
+      <find>addListenerDetails</find>
+      <find>find</find>
+      <find>idUser</find>
+      <find>basic</find>
+      <find>Basic</find>
+      <find>Comment</find>
+      <find>EmployeeServices</find>
+      <find>AdminMovieView</find>
+      <find>AdminSportView</find>
+      <find>employeeB</find>
+      <find>Employee</find>
+      <find>Medication</find>
+      <find>findByUsername</find>
+      <find>listShow</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>s</replace>
+      <replace>Comment</replace>
+      <replace>Rating</replace>
+      <replace>User</replace>
+      <replace>myService</replace>
+      <replace>serverInputStream</replace>
+      <replace>basicUser</replace>
+      <replace>show</replace>
+      <replace>addListenerComment</replace>
+      <replace>commentButton</replace>
+      <replace>listDetails</replace>
+      <replace>detailsButton</replace>
+      <replace>basicUserView</replace>
+      <replace>Activity</replace>
+      <replace>premium</replace>
+      <replace>Premium</replace>
+      <replace>Notification</replace>
+      <replace>UserServices</replace>
+      <replace>AdminSportView</replace>
+      <replace>AdminTheatreView</replace>
+      <replace>theatre</replace>
+      <replace>Theatre</replace>
+      <replace>Show</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/src/model/Comment.java" />
+        <option value="$PROJECT_DIR$/server/src/model/BLL/AuxiliarServices.java" />
+        <option value="$PROJECT_DIR$/server/src/DAO/ActivityIDAO.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/ControllerHistory.java" />
+        <option value="$PROJECT_DIR$/client/src/view/HistoryView.java" />
+        <option value="$PROJECT_DIR$/server/src/model/Show.java" />
+        <option value="$PROJECT_DIR$/client/src/model/SportEvent.java" />
+        <option value="$PROJECT_DIR$/client/src/model/Theatre.java" />
+        <option value="$PROJECT_DIR$/server/src/model/Theatre.java" />
+        <option value="$PROJECT_DIR$/server/src/model/Movie.java" />
+        <option value="$PROJECT_DIR$/client/src/model/Show.java" />
+        <option value="$PROJECT_DIR$/client/src/view/PremiumUserView.java" />
+        <option value="$PROJECT_DIR$/client/src/model/PremiumUser.java" />
+        <option value="$PROJECT_DIR$/client/src/model/notification.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/PremiumUserController.java" />
+        <option value="$PROJECT_DIR$/client/src/model/Notification.java" />
+        <option value="$PROJECT_DIR$/server/src/model/Notification.java" />
+        <option value="$PROJECT_DIR$/server/src/DAO/NotificationIDAO.java" />
+        <option value="$PROJECT_DIR$/client/src/model/Admin.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminChooseView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/ControllerBuilder.java" />
+        <option value="$PROJECT_DIR$/client/src/model/BasicUser.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/AdminShowController.java" />
+        <option value="$PROJECT_DIR$/client/src/view/DetailsView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/ControllerDetails.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminShowView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/AdminChooseShowView.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminShowChooseView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/AdminChooseController.java" />
+        <option value="$PROJECT_DIR$/client/src/view/IView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/server/src/DAO/UserDAO.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminEmployeeView.java" />
+        <option value="$PROJECT_DIR$/client/src/model/BLL/UserServices.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminMovieView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/ControllerAdminChooseShow.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminTheatreView.java" />
+        <option value="$PROJECT_DIR$/client/src/model/BLL/ShowServices.java" />
+        <option value="$PROJECT_DIR$/server/src/model/BLL/UserServices.java" />
+        <option value="$PROJECT_DIR$/server/src/model/BLL/ShowServices.java" />
+        <option value="$PROJECT_DIR$/client/src/view/AdminSportView.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/ControllerAdminShow.java" />
+        <option value="$PROJECT_DIR$/server/src/model/SportEvent.java" />
+        <option value="$PROJECT_DIR$/client/src/model/Movie.java" />
+        <option value="$PROJECT_DIR$/server/src/DAO/ShowDAO.java" />
+        <option value="$PROJECT_DIR$/server/Test.ts" />
+        <option value="$PROJECT_DIR$/server/src/Test.java" />
+        <option value="$PROJECT_DIR$/server/src/TestClass.java" />
+        <option value="$PROJECT_DIR$/server/src/DAO/TestClass.java" />
+        <option value="$PROJECT_DIR$/server/src/Main.java" />
+        <option value="$PROJECT_DIR$/client/src/controller/AdminEmployeeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="BLL" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="termi&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Facultate\sem2\PS\Assignment3\client\src" />
+      <recent name="E:\Facultate\sem2\PS\Assignment3\client\src\main\resources\templates" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="view" />
+      <recent name="controller" />
+      <recent name="model" />
+      <recent name="model.BLL" />
+      <recent name="BLL" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoginController">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="LoginController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.LoginController" />
+      <module name="client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DAO.Main" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestClass.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.TestClass" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.LoginController" />
+      <item itemvalue="JUnit.TestClass.test" />
+      <item itemvalue="JUnit.Main.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginController" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="JUnit.Main.test" />
+        <item itemvalue="JUnit.TestClass.test" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c76620f-409b-48d0-8814-139300ad8d40" name="Default" comment="" />
+      <created>1526404926306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526404926306</updated>
+      <workItem from="1526404927778" duration="4032000" />
+      <workItem from="1526410907634" duration="8472000" />
+      <workItem from="1526448779477" duration="12990000" />
+      <workItem from="1526464842716" duration="14713000" />
+      <workItem from="1526548708072" duration="1747000" />
+      <workItem from="1526580854596" duration="11022000" />
+      <workItem from="1526613180852" duration="18981000" />
+    </task>
+    <task id="LOCAL-00001" summary="show model">
+      <created>1526409134790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526409134790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="showDAO">
+      <created>1526414764853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526414764853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="user, activity, rating, comments DAO">
+      <created>1526418799814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526418799814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="basic user">
+      <created>1526590091866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526590091866</updated>
+    </task>
+    <task id="LOCAL-00005" summary="partial admin">
+      <created>1526624530209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526624530209</updated>
+    </task>
+    <task id="LOCAL-00006" summary="admin +">
+      <created>1526654967553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526654967553</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestClass_test - 2018.05.18 at 18h 02m 41s.xml">
+      <configuration name="TestClass.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2018.05.18 at 18h 04m 12s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71957000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.49674478" weight="0.32965517" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" x="0" y="333" width="1536" height="157" id="Run" order="14" sideWeight="0.5032552" side_tool="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32965517" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27278647" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32965517" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" x="0" y="333" width="1536" height="157" id="Run" order="14" sideWeight="0.5019531" side_tool="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32965517" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32965517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27083334" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.49804688" weight="0.32965517" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="show model" />
+    <MESSAGE value="showDAO" />
+    <MESSAGE value="user, activity, rating, comments DAO" />
+    <MESSAGE value="basic user" />
+    <MESSAGE value="partial admin" />
+    <MESSAGE value="admin +" />
+    <option name="LAST_COMMIT_MESSAGE" value="admin +" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/src/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/PremiumUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="131" column="65" selection-start-line="131" selection-start-column="65" selection-end-line="131" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/AdminChooseView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="33" column="31" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/AdminShowController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/AdminChooseShowView.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/DetailsView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="109" lean-forward="true" selection-start-line="93" selection-start-column="6" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/IView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/AdminShowChooseView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/model/BLL/UserServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/AdminMovieView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="417" selection-start-line="417" selection-end-line="417" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-Assignment3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-Assignment3</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1" x="-218.27272727272728" y="35.40909090909091" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/modules.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="74.0">mdl-server</node>
+            <node x="-196.0" y="-146.0">mdl-client</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+          <SelectedNodes>
+            <node>mdl-client</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Test dependencies</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="1746.6122405372394" y="457.0">controller.ControllerHistory</node>
+            <node x="2230.659962606836" y="149.0">model.BasicUser</node>
+            <node x="898.4604109432225" y="457.0">App</node>
+            <node x="1930.3622405372394" y="943.0">controller.AdminChooseController</node>
+            <node x="734.9793269230768" y="0.0">model.Notification</node>
+            <node x="309.84091498778844" y="457.0">model.History</node>
+            <node x="564.9186221764337" y="834.0">controller.BasicUserController</node>
+            <node x="1614.6122405372394" y="298.0">DAO.RatingIDAO</node>
+            <node x="2071.159962606836" y="1022.0">controller.ControllerBuilder</node>
+            <node x="409.35162927350257" y="298.0">model.Theatre</node>
+            <node x="1993.909962606836" y="149.0">model.Admin</node>
+            <node x="755.4793269230768" y="149.0">DAO.NotificationIDAO</node>
+            <node x="2349.659962606836" y="149.0">DAO.UserDAO</node>
+            <node x="985.2016292735026" y="298.0">model.BLL.ServerConnection</node>
+            <node x="1175.6122405372394" y="298.0">model.BLL.AuxiliarServices</node>
+            <node x="296.89448641635954" y="298.0">model.Movie</node>
+            <node x="260.81961423992584" y="755.0">controller.ControllerAdminShow</node>
+            <node x="457.25162927350266" y="457.0">DAO.ShowDAO</node>
+            <node x="2354.3622405372394" y="834.0">model.PremiumUser</node>
+            <node x="2282.659962606836" y="298.0">model.BLL.UserServices</node>
+            <node x="2465.659962606836" y="149.0">model.Ratings</node>
+            <node x="1113.9516292735027" y="149.0">model.Activity</node>
+            <node x="1221.9516292735027" y="149.0">model.BLL.GeneralServices</node>
+            <node x="1254.8266292735027" y="457.0">model.BLL.ServicesHandler</node>
+            <node x="2335.3940705128202" y="0.0">model.User</node>
+            <node x="1741.409962606836" y="149.0">model.Comment</node>
+            <node x="1207.3266292735025" y="755.0">controller.ControllerDetails</node>
+            <node x="1993.409962606836" y="457.0">controller.AdminEmployeeController</node>
+            <node x="2106.659962606836" y="149.0">model.Comments</node>
+            <node x="856.2016292735026" y="298.0">model.BLL.Connection</node>
+            <node x="536.1266292735027" y="298.0">model.SportEvent</node>
+            <node x="652.0436221764337" y="616.0">model.BLL.ShowServices</node>
+            <node x="958.0436221764337" y="149.0">model.BLL.Request</node>
+            <node x="535.8543269230768" y="149.0">model.Show</node>
+            <node x="1890.909962606836" y="149.0">model.Rating</node>
+            <node x="1461.6122405372394" y="298.0">DAO.CommentsIDAO</node>
+            <node x="1325.6122405372394" y="298.0">DAO.ActivityIDAO</node>
+            <node x="2374.251955509767" y="1121.0">controller.LoginController</node>
+            <node x="2201.722462606836" y="943.0">controller.PremiumUserController</node>
+            <node x="0.0" y="834.0">controller.ControllerAdminChooseShow</node>
+            <node x="1310.7425538003654" y="0.0">model.BLL.IDAO</node>
+            <node x="0.0" y="1195.0">Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="model.BLL.ServicesHandler" target="model.BLL.Connection">
+              <point x="-59.40000000000009" y="-14.5" />
+              <point x="1261.4266292735026" y="427.0" />
+              <point x="910.2016292735026" y="427.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="model.BLL.ShowServices">
+              <point x="33.0" y="14.5" />
+              <point x="1353.8266292735027" y="596.0" />
+              <point x="759.1436221764337" y="596.0" />
+              <point x="47.60000000000002" y="-14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.Theatre">
+              <point x="-47.950000000000045" y="-14.5" />
+              <point x="1227.8766292735024" y="695.0" />
+              <point x="603.1248340201456" y="695.0" />
+              <point x="603.1248340201456" y="526.0" />
+              <point x="446.75162927350266" y="526.0" />
+              <point x="446.75162927350266" y="437.0" />
+              <point x="453.35162927350257" y="437.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerAdminShow" target="model.BLL.ShowServices">
+              <point x="71.75" y="-14.5" />
+              <point x="414.56961423992584" y="725.0" />
+              <point x="666.9186221764337" y="725.0" />
+              <point x="-44.625" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerHistory" target="model.Activity">
+              <point x="-34.5" y="-14.5" />
+              <point x="1781.1122405372394" y="347.0" />
+              <point x="1135.7016292735027" y="347.0" />
+              <point x="-21.75" y="14.5" />
+            </edge>
+            <edge source="model.BasicUser" target="model.User">
+              <point x="-24.5" y="-14.5" />
+              <point x="2255.159962606836" y="109.0" />
+              <point x="2359.8003205128202" y="109.0" />
+              <point x="-11.09375" y="14.5" />
+            </edge>
+            <edge source="model.BLL.UserServices" target="model.BLL.Request">
+              <point x="-37.66666666666674" y="-14.5" />
+              <point x="2301.4932959401694" y="248.0" />
+              <point x="1040.5436221764337" y="248.0" />
+              <point x="37.5" y="14.5" />
+            </edge>
+            <edge source="model.BLL.Connection" target="model.BLL.Request">
+              <point x="0.0" y="-14.5" />
+              <point x="910.2016292735026" y="268.0" />
+              <point x="980.5436221764337" y="268.0" />
+              <point x="-22.5" y="14.5" />
+            </edge>
+            <edge source="controller.AdminEmployeeController" target="model.BLL.UserServices">
+              <point x="62.666666666666515" y="-14.5" />
+              <point x="2150.0766292735025" y="417.0" />
+              <point x="2332.097462606836" y="417.0" />
+              <point x="-7.0625" y="14.5" />
+            </edge>
+            <edge source="controller.BasicUserController" target="controller.ControllerHistory">
+              <point x="56.625" y="-14.5" />
+              <point x="697.0436221764337" y="814.0" />
+              <point x="1810.1122405372394" y="814.0" />
+              <point x="1810.1122405372394" y="596.0" />
+              <point x="1781.1122405372394" y="596.0" />
+              <point x="-34.5" y="14.5" />
+            </edge>
+            <edge source="controller.AdminChooseController" target="controller.AdminEmployeeController">
+              <point x="43.75" y="-14.5" />
+              <point x="2061.6122405372394" y="923.0" />
+              <point x="2087.409962606836" y="923.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="DAO.ShowDAO" target="model.Theatre">
+              <point x="-6.375" y="-14.5" />
+              <point x="501.87662927350266" y="397.0" />
+              <point x="488.5516292735026" y="397.0" />
+              <point x="35.19999999999999" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.SportEvent">
+              <point x="-34.25" y="-14.5" />
+              <point x="1241.5766292735025" y="685.0" />
+              <point x="641.5436221764337" y="685.0" />
+              <point x="641.5436221764337" y="437.0" />
+              <point x="630.6266292735027" y="437.0" />
+              <point x="42.0" y="14.5" />
+            </edge>
+            <edge source="DAO.ActivityIDAO" target="model.BLL.IDAO">
+              <point x="29.0" y="-14.5" />
+              <point x="1412.6122405372394" y="129.0" />
+              <point x="1359.5996966575083" y="129.0" />
+              <point x="10.85714285714289" y="14.5" />
+            </edge>
+            <edge source="model.Admin" target="model.User">
+              <point x="0.0" y="-14.5" />
+              <point x="2035.409962606836" y="69.0" />
+              <point x="2342.0503205128202" y="69.0" />
+              <point x="-28.84375" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="DAO.ActivityIDAO">
+              <point x="6.599999999999909" y="-14.5" />
+              <point x="1327.4266292735026" y="357.0" />
+              <point x="1383.6122405372394" y="357.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.BLL.UserServices" target="model.BLL.ServicesHandler">
+              <point x="-35.3125" y="14.5" />
+              <point x="2303.847462606836" y="397.0" />
+              <point x="1380.2266292735028" y="397.0" />
+              <point x="59.40000000000009" y="-14.5" />
+            </edge>
+            <edge source="DAO.UserDAO" target="model.User">
+              <point x="0.0" y="-14.5" />
+              <point x="2397.659962606836" y="119.0" />
+              <point x="2373.1128205128202" y="119.0" />
+              <point x="2.21875" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="DAO.RatingIDAO">
+              <point x="33.0" y="-14.5" />
+              <point x="1353.8266292735027" y="377.0" />
+              <point x="1670.1122405372394" y="377.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.BasicUserController" target="controller.ControllerDetails">
+              <point x="18.875" y="-14.5" />
+              <point x="659.2936221764337" y="804.0" />
+              <point x="1241.5766292735025" y="804.0" />
+              <point x="-34.25" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="DAO.CommentsIDAO">
+              <point x="19.799999999999955" y="-14.5" />
+              <point x="1340.6266292735027" y="367.0" />
+              <point x="1528.1122405372394" y="367.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.BLL.Connection" target="model.BLL.ServicesHandler">
+              <point x="36.0" y="14.5" />
+              <point x="946.2016292735026" y="417.0" />
+              <point x="1274.6266292735027" y="417.0" />
+              <point x="-46.200000000000045" y="-14.5" />
+            </edge>
+            <edge source="controller.LoginController" target="model.BLL.UserServices">
+              <point x="-26.0" y="-14.5" />
+              <point x="2413.251955509767" y="1071.0" />
+              <point x="2484.1434905372394" y="1071.0" />
+              <point x="2484.1434905372394" y="437.0" />
+              <point x="2374.472462606836" y="437.0" />
+              <point x="35.3125" y="14.5" />
+            </edge>
+            <edge source="model.BLL.GeneralServices" target="model.BLL.IDAO">
+              <point x="-32.75" y="-14.5" />
+              <point x="1254.7016292735027" y="119.0" />
+              <point x="1337.8854109432225" y="119.0" />
+              <point x="-10.85714285714289" y="14.5" />
+            </edge>
+            <edge source="DAO.ShowDAO" target="model.SportEvent">
+              <point x="44.625" y="-14.5" />
+              <point x="552.8766292735027" y="437.0" />
+              <point x="567.6266292735027" y="437.0" />
+              <point x="-21.0" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="model.BLL.Request">
+              <point x="-33.0" y="-14.5" />
+              <point x="1287.8266292735027" y="407.0" />
+              <point x="974.7016292735026" y="407.0" />
+              <point x="974.7016292735026" y="278.0" />
+              <point x="995.5436221764337" y="278.0" />
+              <point x="-7.5" y="14.5" />
+            </edge>
+            <edge source="model.BLL.UserServices" target="model.User">
+              <point x="0.0" y="-14.5" />
+              <point x="2339.159962606836" y="129.0" />
+              <point x="2368.6753205128202" y="129.0" />
+              <point x="-2.21875" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerAdminShow" target="model.Movie">
+              <point x="-30.75" y="-14.5" />
+              <point x="312.06961423992584" y="715.0" />
+              <point x="273.7668269230767" y="715.0" />
+              <point x="273.7668269230767" y="427.0" />
+              <point x="314.03734355921665" y="427.0" />
+              <point x="-22.85714285714289" y="14.5" />
+            </edge>
+            <edge source="DAO.ShowDAO" target="model.Show">
+              <point x="6.375" y="-14.5" />
+              <point x="514.6266292735027" y="258.0" />
+              <point x="573.8543269230768" y="258.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.History" target="model.Movie">
+              <point x="21.25" y="-14.5" />
+              <point x="373.59091498778844" y="437.0" />
+              <point x="348.3230578449309" y="437.0" />
+              <point x="11.428571428571416" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerBuilder" target="controller.PremiumUserController">
+              <point x="17.25" y="-14.5" />
+              <point x="2157.409962606836" y="992.0" />
+              <point x="2287.222462606836" y="992.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerBuilder" target="controller.AdminChooseController">
+              <point x="-17.25" y="-14.5" />
+              <point x="2122.909962606836" y="992.0" />
+              <point x="2017.8622405372394" y="992.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.BLL.UserServices">
+              <point x="61.64999999999998" y="-14.5" />
+              <point x="1337.4766292735026" y="735.0" />
+              <point x="2322.091407203906" y="735.0" />
+              <point x="2322.091407203906" y="427.0" />
+              <point x="2346.222462606836" y="427.0" />
+              <point x="7.0625" y="14.5" />
+            </edge>
+            <edge source="DAO.RatingIDAO" target="model.Rating">
+              <point x="27.75" y="-14.5" />
+              <point x="1697.8622405372394" y="278.0" />
+              <point x="1904.5766292735025" y="278.0" />
+              <point x="-27.33333333333337" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerAdminShow" target="model.Theatre">
+              <point x="-10.25" y="-14.5" />
+              <point x="332.56961423992584" y="735.0" />
+              <point x="318.31961423992584" y="735.0" />
+              <point x="318.31961423992584" y="516.0" />
+              <point x="421.72483402014564" y="516.0" />
+              <point x="421.72483402014564" y="437.0" />
+              <point x="418.1516292735025" y="437.0" />
+              <point x="-35.200000000000045" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.Show">
+              <point x="-6.850000000000023" y="-14.5" />
+              <point x="1268.9766292735026" y="665.0" />
+              <point x="817.7016292735026" y="665.0" />
+              <point x="817.7016292735026" y="248.0" />
+              <point x="608.9312499999999" y="248.0" />
+              <point x="35.076923076923094" y="14.5" />
+            </edge>
+            <edge source="model.BLL.AuxiliarServices" target="model.BLL.ServicesHandler">
+              <point x="32.5" y="14.5" />
+              <point x="1273.1122405372394" y="387.0" />
+              <point x="1314.2266292735028" y="387.0" />
+              <point x="-6.599999999999909" y="-14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.Rating">
+              <point x="34.25" y="-14.5" />
+              <point x="1310.0766292735025" y="715.0" />
+              <point x="1940.0766292735025" y="715.0" />
+              <point x="1940.0766292735025" y="278.0" />
+              <point x="1931.909962606836" y="278.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.LoginController" target="model.User">
+              <point x="52.0" y="-14.5" />
+              <point x="2491.251955509767" y="1101.0" />
+              <point x="2587.472462606836" y="1101.0" />
+              <point x="2587.472462606836" y="49.0" />
+              <point x="2404.1753205128202" y="49.0" />
+              <point x="33.28125" y="14.5" />
+            </edge>
+            <edge source="DAO.ActivityIDAO" target="model.Activity">
+              <point x="-29.0" y="-14.5" />
+              <point x="1354.6122405372394" y="258.0" />
+              <point x="1179.2016292735027" y="258.0" />
+              <point x="21.75" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.Movie">
+              <point x="-61.64999999999998" y="-14.5" />
+              <point x="1214.1766292735026" y="705.0" />
+              <point x="385.22483402014564" y="705.0" />
+              <point x="385.22483402014564" y="506.0" />
+              <point x="299.34091498778844" y="506.0" />
+              <point x="299.34091498778844" y="437.0" />
+              <point x="325.465914987788" y="437.0" />
+              <point x="-11.428571428571558" y="14.5" />
+            </edge>
+            <edge source="model.BLL.AuxiliarServices" target="model.BLL.GeneralServices">
+              <point x="16.25" y="-14.5" />
+              <point x="1256.8622405372394" y="278.0" />
+              <point x="1254.7016292735027" y="278.0" />
+              <point x="-32.75" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="controller.ControllerDetails">
+              <point x="-32.0625" y="-14.5" />
+              <point x="2255.159962606836" y="893.0" />
+              <point x="1310.0766292735025" y="893.0" />
+              <point x="34.25" y="14.5" />
+            </edge>
+            <edge source="model.Ratings" target="model.User">
+              <point x="21.75" y="-14.5" />
+              <point x="2530.909962606836" y="99.0" />
+              <point x="2381.9878205128202" y="99.0" />
+              <point x="11.09375" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ShowServices" target="model.Show">
+              <point x="-23.799999999999955" y="-14.5" />
+              <point x="687.7436221764337" y="566.0" />
+              <point x="731.7205452533569" y="566.0" />
+              <point x="731.7205452533569" y="258.0" />
+              <point x="603.085096153846" y="258.0" />
+              <point x="29.230769230769283" y="14.5" />
+            </edge>
+            <edge source="model.SportEvent" target="model.Show">
+              <point x="26.25" y="-14.5" />
+              <point x="614.8766292735027" y="278.0" />
+              <point x="591.3927884615383" y="278.0" />
+              <point x="17.538461538461547" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="model.BLL.ShowServices">
+              <point x="-53.4375" y="-14.5" />
+              <point x="2233.784962606836" y="903.0" />
+              <point x="726.4186221764337" y="903.0" />
+              <point x="14.875" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ShowServices" target="model.BLL.ServicesHandler">
+              <point x="23.799999999999955" y="-14.5" />
+              <point x="735.3436221764337" y="586.0" />
+              <point x="1287.8266292735027" y="586.0" />
+              <point x="-33.0" y="14.5" />
+            </edge>
+            <edge source="DAO.ShowDAO" target="model.Movie">
+              <point x="-44.625" y="-14.5" />
+              <point x="463.62662927350266" y="427.0" />
+              <point x="359.75162927350243" y="427.0" />
+              <point x="22.857142857142833" y="14.5" />
+            </edge>
+            <edge source="model.BLL.AuxiliarServices" target="model.BLL.IDAO">
+              <point x="-16.25" y="-14.5" />
+              <point x="1224.3622405372394" y="278.0" />
+              <point x="1211.4516292735027" y="278.0" />
+              <point x="1211.4516292735027" y="109.0" />
+              <point x="1327.0282680860796" y="109.0" />
+              <point x="-21.71428571428578" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="model.Show">
+              <point x="-74.8125" y="-14.5" />
+              <point x="2212.409962606836" y="913.0" />
+              <point x="238.46875" y="913.0" />
+              <point x="238.46875" y="198.0" />
+              <point x="538.7774038461537" y="198.0" />
+              <point x="-35.076923076923094" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerAdminShow" target="model.Show">
+              <point x="-71.75" y="-14.5" />
+              <point x="271.06961423992584" y="735.0" />
+              <point x="251.76682692307668" y="735.0" />
+              <point x="251.76682692307668" y="208.0" />
+              <point x="544.6235576923075" y="208.0" />
+              <point x="-29.230769230769283" y="14.5" />
+            </edge>
+            <edge source="model.BLL.AuxiliarServices" target="model.BLL.Request">
+              <point x="-48.75" y="-14.5" />
+              <point x="1191.8622405372394" y="268.0" />
+              <point x="1025.5436221764337" y="268.0" />
+              <point x="22.5" y="14.5" />
+            </edge>
+            <edge source="controller.BasicUserController" target="model.BLL.ShowServices">
+              <point x="-18.875" y="-14.5" />
+              <point x="621.5436221764337" y="735.0" />
+              <point x="696.6686221764337" y="735.0" />
+              <point x="-14.875" y="14.5" />
+            </edge>
+            <edge source="model.PremiumUser" target="model.User">
+              <point x="0.0" y="-14.5" />
+              <point x="2413.3622405372394" y="814.0" />
+              <point x="2563.159962606836" y="814.0" />
+              <point x="2563.159962606836" y="89.0" />
+              <point x="2386.4253205128202" y="89.0" />
+              <point x="15.53125" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerAdminShow" target="model.SportEvent">
+              <point x="51.25" y="-14.5" />
+              <point x="394.06961423992584" y="715.0" />
+              <point x="502.4811221764337" y="715.0" />
+              <point x="502.4811221764337" y="546.0" />
+              <point x="609.6266292735027" y="546.0" />
+              <point x="21.0" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="model.BLL.UserServices">
+              <point x="46.200000000000045" y="-14.5" />
+              <point x="1367.0266292735027" y="387.0" />
+              <point x="2289.722462606836" y="387.0" />
+              <point x="-49.4375" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="model.BLL.UserServices">
+              <point x="10.6875" y="-14.5" />
+              <point x="2297.909962606836" y="893.0" />
+              <point x="2343.8622405372394" y="893.0" />
+              <point x="2343.8622405372394" y="437.0" />
+              <point x="2360.347462606836" y="437.0" />
+              <point x="21.1875" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ShowServices" target="model.BLL.Request">
+              <point x="0.0" y="-14.5" />
+              <point x="711.5436221764337" y="576.0" />
+              <point x="828.7016292735026" y="576.0" />
+              <point x="828.7016292735026" y="258.0" />
+              <point x="965.5436221764337" y="258.0" />
+              <point x="-37.5" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ShowServices" target="DAO.ShowDAO">
+              <point x="-47.60000000000002" y="-14.5" />
+              <point x="663.9436221764337" y="516.0" />
+              <point x="508.25162927350266" y="516.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="model.PremiumUser">
+              <point x="32.0625" y="-14.5" />
+              <point x="2319.284962606836" y="903.0" />
+              <point x="2383.8622405372394" y="903.0" />
+              <point x="-29.5" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerBuilder" target="controller.BasicUserController">
+              <point x="-51.75" y="-14.5" />
+              <point x="2088.409962606836" y="1002.0" />
+              <point x="640.4186221764337" y="1002.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerBuilder" target="model.User">
+              <point x="51.75" y="-14.5" />
+              <point x="2191.909962606836" y="1002.0" />
+              <point x="2572.034962606836" y="1002.0" />
+              <point x="2572.034962606836" y="69.0" />
+              <point x="2395.3003205128202" y="69.0" />
+              <point x="24.40625" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServerConnection" target="model.BLL.Request">
+              <point x="0.0" y="-14.5" />
+              <point x="1055.2016292735025" y="278.0" />
+              <point x="1010.5436221764337" y="278.0" />
+              <point x="7.5" y="14.5" />
+            </edge>
+            <edge source="model.BLL.UserServices" target="DAO.UserDAO">
+              <point x="37.66666666666674" y="-14.5" />
+              <point x="2376.8266292735025" y="278.0" />
+              <point x="2397.659962606836" y="278.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.AdminEmployeeController" target="model.User">
+              <point x="0.0" y="-14.5" />
+              <point x="2087.409962606836" y="79.0" />
+              <point x="2346.4878205128202" y="79.0" />
+              <point x="-24.40625" y="14.5" />
+            </edge>
+            <edge source="DAO.NotificationIDAO" target="model.Notification">
+              <point x="-35.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.LoginController" target="controller.ControllerBuilder">
+              <point x="-52.0" y="-14.5" />
+              <point x="2387.251955509767" y="1101.0" />
+              <point x="2140.159962606836" y="1101.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.Comment">
+              <point x="6.850000000000023" y="-14.5" />
+              <point x="1282.6766292735026" y="695.0" />
+              <point x="1736.1122405372394" y="695.0" />
+              <point x="1736.1122405372394" y="268.0" />
+              <point x="1791.409962606836" y="268.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerAdminChooseShow" target="controller.ControllerAdminShow">
+              <point x="0.0" y="-14.5" />
+              <point x="101.5" y="814.0" />
+              <point x="342.81961423992584" y="814.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="model.Movie" target="model.Show">
+              <point x="-20.0" y="-14.5" />
+              <point x="316.89448641635954" y="218.0" />
+              <point x="550.4697115384615" y="218.0" />
+              <point x="-23.38461538461536" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerDetails" target="model.BLL.ShowServices">
+              <point x="-20.550000000000068" y="-14.5" />
+              <point x="1255.2766292735025" y="675.0" />
+              <point x="756.1686221764337" y="675.0" />
+              <point x="44.625" y="14.5" />
+            </edge>
+            <edge source="model.Comments" target="model.User">
+              <point x="-26.0" y="-14.5" />
+              <point x="2132.659962606836" y="89.0" />
+              <point x="2350.9253205128202" y="89.0" />
+              <point x="-19.96875" y="14.5" />
+            </edge>
+            <edge source="model.BLL.ServicesHandler" target="model.BLL.AuxiliarServices">
+              <point x="-19.799999999999955" y="-14.5" />
+              <point x="1301.0266292735027" y="397.0" />
+              <point x="1208.1122405372394" y="397.0" />
+              <point x="-32.5" y="14.5" />
+            </edge>
+            <edge source="controller.AdminChooseController" target="controller.ControllerAdminChooseShow">
+              <point x="-43.75" y="-14.5" />
+              <point x="1974.1122405372394" y="923.0" />
+              <point x="101.5" y="923.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller.ControllerHistory" target="model.BLL.UserServices">
+              <point x="34.5" y="-14.5" />
+              <point x="1850.1122405372394" y="407.0" />
+              <point x="2317.972462606836" y="407.0" />
+              <point x="-21.1875" y="14.5" />
+            </edge>
+            <edge source="DAO.CommentsIDAO" target="model.BLL.IDAO">
+              <point x="-33.25" y="-14.5" />
+              <point x="1494.8622405372394" y="119.0" />
+              <point x="1370.4568395146512" y="119.0" />
+              <point x="21.71428571428578" y="14.5" />
+            </edge>
+            <edge source="App" target="model.BLL.Connection">
+              <point x="0.0" y="-14.5" />
+              <point x="933.4604109432225" y="437.0" />
+              <point x="874.2016292735026" y="437.0" />
+              <point x="-36.0" y="14.5" />
+            </edge>
+            <edge source="DAO.CommentsIDAO" target="model.Comment">
+              <point x="33.25" y="-14.5" />
+              <point x="1561.3622405372394" y="258.0" />
+              <point x="1758.0766292735025" y="258.0" />
+              <point x="-33.33333333333337" y="14.5" />
+            </edge>
+            <edge source="DAO.RatingIDAO" target="model.BLL.IDAO">
+              <point x="-27.75" y="-14.5" />
+              <point x="1642.3622405372394" y="109.0" />
+              <point x="1381.313982371794" y="109.0" />
+              <point x="32.57142857142867" y="14.5" />
+            </edge>
+            <edge source="DAO.NotificationIDAO" target="model.BLL.IDAO">
+              <point x="35.0" y="-14.5" />
+              <point x="860.4793269230768" y="99.0" />
+              <point x="1316.1711252289367" y="99.0" />
+              <point x="-32.57142857142867" y="14.5" />
+            </edge>
+            <edge source="controller.BasicUserController" target="model.Show">
+              <point x="-56.625" y="-14.5" />
+              <point x="583.7936221764337" y="814.0" />
+              <point x="523.1891292735027" y="814.0" />
+              <point x="523.1891292735027" y="556.0" />
+              <point x="725.8743914072031" y="556.0" />
+              <point x="725.8743914072031" y="268.0" />
+              <point x="597.2389423076921" y="268.0" />
+              <point x="23.38461538461536" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="model.User">
+              <point x="74.8125" y="-14.5" />
+              <point x="2362.034962606836" y="923.0" />
+              <point x="2567.597462606836" y="923.0" />
+              <point x="2567.597462606836" y="79.0" />
+              <point x="2390.8628205128202" y="79.0" />
+              <point x="19.96875" y="14.5" />
+            </edge>
+            <edge source="controller.PremiumUserController" target="controller.ControllerHistory">
+              <point x="-10.6875" y="-14.5" />
+              <point x="2276.534962606836" y="883.0" />
+              <point x="1821.1122405372394" y="883.0" />
+              <point x="1821.1122405372394" y="596.0" />
+              <point x="1850.1122405372394" y="596.0" />
+              <point x="34.5" y="14.5" />
+            </edge>
+            <edge source="model.Theatre" target="model.Show">
+              <point x="-22.0" y="-14.5" />
+              <point x="431.35162927350257" y="238.0" />
+              <point x="562.1620192307691" y="238.0" />
+              <point x="-11.69230769230768" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4623036649214659" x="439.5696489241222" y="644.1392978482447" />
+          <SelectedNodes>
+            <node>model.BLL.Request</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/ControllerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/AdminSportView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="109" column="88" lean-forward="true" selection-start-line="109" selection-start-column="88" selection-end-line="109" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/model/BLL/ShowServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="154" column="42" selection-start-line="154" selection-start-column="33" selection-end-line="154" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/AdminTheatreView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/ControllerAdminShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/SportEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="430" selection-start-line="430" selection-end-line="430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/ControllerDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/model/BLL/ServerConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="59" selection-start-line="50" selection-start-column="35" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="69" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/model/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/DAO/ShowDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="110" column="8" lean-forward="true" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/DAO/NotificationIDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/DAO/CommentsIDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/ControllerAdminChooseShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/AdminChooseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/BasicUserView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2088#2089#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2455#2456#0" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/History.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Test.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/DAO/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="7" column="13" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/ShowServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/view/AdminEmployeeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/AdminEmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/ServicesHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/UserServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/DAO/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="53" column="16" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/DAO/RatingIDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/IDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/GeneralServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/model/BLL/AuxiliarServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
